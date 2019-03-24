@@ -4,7 +4,9 @@
   "description": "",
   "main": "vpn.js",
   "dependencies": {
-    "mqtt": "^2.18.8"
+    "async-mqtt": "^2.2.0",
+    "mqtt": "^2.18.8",
+    "node-fetch": "^2.3.0"
   },
   "devDependencies": {},
   "scripts": {
